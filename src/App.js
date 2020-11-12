@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 
 import './App.css';
+import './Weather';
 
 /** 
  * This example illustrates a simple react project 
